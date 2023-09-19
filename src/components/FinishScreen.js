@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
 import { PostServerData } from "../helper/helper";
 import Leaderboard from "./LeaderBoard";
 // Import your helper function
