@@ -18,7 +18,7 @@ const initialState = {
   index: 0,
   answer: null,
   points: 0,
-  secondsRemaining: 100,
+  secondsRemaining: 180,
   quizStartTime: null,
   totalTimeElapsed: 0,
   username: "", // Add username to initial state
